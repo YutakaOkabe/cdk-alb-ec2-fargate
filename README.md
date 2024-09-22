@@ -2,6 +2,8 @@
 
 CDKで以下の構成を作るテンプレート
 
+![構成図](./docs/cdk-alb-ec2-fargate.png)
+
 ## Useful commands
 
 * `npm run build`   compile typescript to js
